@@ -1,0 +1,3 @@
+Auditorium - RM300/hr - Capacity: 1000 people
+Banquet Hall - RM100/hr - Capacity: 300 people
+Meeting Room - RM50/hr - Capacity: 30 people

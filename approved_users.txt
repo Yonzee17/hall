@@ -1,0 +1,4 @@
+Karina,karina,Customer
+Bhagwan,bhagwan,Scheduler
+Manish,manish,Manager
+Anupam,anupam,Administrator
